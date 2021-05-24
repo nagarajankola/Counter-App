@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name"> _ C O U N T E R _ A P P _ </string>
+    <string name="counter_value">Count Value :</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="_0">0</string>
+</resources>
